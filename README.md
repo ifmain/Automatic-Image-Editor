@@ -25,8 +25,11 @@ Promts:
 |Original|Raplaced|
 |--|--|
 |![bus](https://github.com/ultralytics/ultralytics/blob/main/ultralytics/assets/bus.jpg)|![bus](ex/removed.png)|
-
+```
 Promts:
   Remove:Person
   Replace:
+```
 
+
+## App based on Gradio
