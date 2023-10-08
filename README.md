@@ -15,3 +15,16 @@ This application uses:
 |Original|Raplaced|
 |--|--|
 |![bus](https://github.com/ultralytics/ultralytics/blob/main/ultralytics/assets/bus.jpg)|![bus](ex/sportcar.jpg)|
+
+Promts:
+  Remove:Bus
+  Replace:Sportcar
+
+|Original|Raplaced|
+|--|--|
+|![bus](https://github.com/ultralytics/ultralytics/blob/main/ultralytics/assets/bus.jpg)|![bus](ex/removed.png)|
+
+Promts:
+  Remove:Person
+  Replace:
+
