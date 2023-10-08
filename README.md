@@ -13,4 +13,5 @@ This application uses:
 ## Exaple Usage
 
 |Original|Raplaced|
-|![bus](https://github.com/ultralytics/ultralytics/blob/main/ultralytics/assets/bus.jpg)|![bus](https://github.com/ultralytics/ultralytics/blob/main/ultralytics/assets/bus.jpg)|
+|--|--|
+|![bus](https://github.com/ultralytics/ultralytics/blob/main/ultralytics/assets/bus.jpg)|![bus](ex/sportcar.jpg)|
