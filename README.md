@@ -16,10 +16,11 @@ This application uses:
 |--|--|
 |![bus](https://github.com/ultralytics/ultralytics/blob/main/ultralytics/assets/bus.jpg)|![bus](ex/sportcar.jpg)|
 
-```text
+```md
 Promts:
   Remove:Bus
-  Replace:Sportcar```
+  Replace:Sportcar
+```
 
 |Original|Raplaced|
 |--|--|
