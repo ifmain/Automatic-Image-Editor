@@ -33,3 +33,4 @@ Promts:
 
 
 ## App based on Gradio
+![Interface](ex/interface.png)
