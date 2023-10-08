@@ -9,6 +9,7 @@ This application uses:
 |VIT SWIN Base GPT2 Image Captioning|Сreation of image description|[Link](https://huggingface.co/Abdou/vit-swin-base-224-gpt2-image-captioning)|
 
 **Many thanks to the developer of all models!**
+Bus images taked from [Yolo repo](https://github.com/ultralytics/ultralytics)
 
 ## Exaple Usage
 
