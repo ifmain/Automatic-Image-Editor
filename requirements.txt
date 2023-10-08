@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch torchvision
+ultralytics
+Pillow
+opencv-python
+gradio
+git+https://github.com/huggingface/diffusers.git
+git+https://https://github.com/huggingface/transformers.git
