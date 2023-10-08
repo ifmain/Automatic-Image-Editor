@@ -16,7 +16,7 @@ This application uses:
 |--|--|
 |![bus](https://github.com/ultralytics/ultralytics/blob/main/ultralytics/assets/bus.jpg)|![bus](ex/sportcar.jpg)|
 
-```md
+```
 Promts:
   Remove:Bus
   Replace:Sportcar
