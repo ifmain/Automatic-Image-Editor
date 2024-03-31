@@ -43,4 +43,4 @@ Contributions are welcome! If you have suggestions for improving this project, f
 
 ## License
 
-All code provided in this repository is released under the MIT License. Please note that third-party AI models and libraries used may be subject to their own licenses.
+This project is licensed under the Apache License Version 2.0. For more information, see the `LICENSE` file in this repository.
